@@ -1,0 +1,19 @@
+.bar {
+  fill: burlywood;
+}
+
+.bar:hover {
+  fill: beige;
+}
+
+p {
+  font-family: 'News Cycle';
+  font-size: 22px;
+}
+
+.toolTip {
+  position: absolute;
+  padding: 14px;
+  font-family: 'News Cycle';
+  font-size: 15px;
+}
